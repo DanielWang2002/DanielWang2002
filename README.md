@@ -1,17 +1,45 @@
-### Hi there 👋, My name is Daniel Wang
-#### I am a student from Taiwan
-Studing in NKUST IC
+Hi, I'm Daniel Wang
+--
+#### A student developer from Taiwan 🇹🇼
+Currently studying Intellgent Commerce at National Kaohsiung University of Science and Technology. (NKUST IC)
 
-Skills: Python / React / Node.js / HTML / CSS
+**Skills** (Ordered by English names)
+--
+### Language
 
-- 🔭 I’m currently working on My first React website 
-- 🌱 I’m currently learning React、Python 
-- 💬 Ask me about Computer Science 
+[![My Skills](https://skillicons.dev/icons?i=bash,cpp,css,go,html,java,js,python&perline=5&theme=light)](https://skillicons.dev)
 
+### Frameworks & Libraries
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/DanielWang2002)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/DanielWang2002/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/xiang_612/)  
+[![My Skills](https://skillicons.dev/icons?i=express,flask,pytorch,react,tailwind&perline=5&theme=light)](https://skillicons.dev)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielWang2002)](https://github.com/anuraghazra/github-readme-stats)
+### Tools & Platforms
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielWang2002&show_icons=true&theme=cobalt)  
+[![My Skills](https://skillicons.dev/icons?i=git,docker,mongodb,mysql,nginx,nodejs,postman,linux&perline=5&theme=light)](https://skillicons.dev)
 
+### IoT
+
+[![My Skills](https://skillicons.dev/icons?i=arduino,raspberrypi&perline=5&theme=light)](https://skillicons.dev)
+
+**Contact me**
+--
+<div style="display: inline-block;">
+    <a href="https://github.com/DanielWang2002">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="GitHub" width="40" height="40">
+    </a>
+    <a href="https://www.instagram.com/xiang_612/">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="Instagram" width="40" height="40">
+    </a>
+    <a href="https://www.linkedin.com/in/DanielWang2002/">
+        <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="Instagram" width="40" height="40">
+    </a>
+</div>
+
+**GitHub Insights**
+--
+[![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielWang2002&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+
+[![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanielWang2002&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DanielWang2002&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanielWang2002&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielWang2002&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
