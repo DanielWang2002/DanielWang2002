@@ -40,6 +40,6 @@ Currently studying Intellgent Commerce at National Kaohsiung University of Scien
 [![Profile Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielWang2002&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 [![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanielWang2002&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DanielWang2002&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DanielWang2002&theme=tokyonight&utcOffset=+8)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanielWang2002&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![GitHub Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielWang2002&theme=tokyonight)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
