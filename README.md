@@ -1,7 +1,7 @@
 Hi, I'm Daniel Wang
 --
 #### A student developer from Taiwan 🇹🇼
-Currently studying Intellgent Commerce at National Kaohsiung University of Science and Technology. (NKUST IC)
+Currently studying National Chung Hsing University Department of Management Information Systems. (NCHU MIS)
 
 **Skills** (Ordered by English names)
 --
